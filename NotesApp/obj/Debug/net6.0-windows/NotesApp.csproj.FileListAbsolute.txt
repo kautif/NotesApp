@@ -1,0 +1,17 @@
+C:\Users\MinisterGold\WindowsApps\NotesApp\NotesApp\bin\Debug\net6.0-windows\NotesApp.exe
+C:\Users\MinisterGold\WindowsApps\NotesApp\NotesApp\bin\Debug\net6.0-windows\NotesApp.deps.json
+C:\Users\MinisterGold\WindowsApps\NotesApp\NotesApp\bin\Debug\net6.0-windows\NotesApp.runtimeconfig.json
+C:\Users\MinisterGold\WindowsApps\NotesApp\NotesApp\bin\Debug\net6.0-windows\NotesApp.dll
+C:\Users\MinisterGold\WindowsApps\NotesApp\NotesApp\bin\Debug\net6.0-windows\NotesApp.pdb
+C:\Users\MinisterGold\WindowsApps\NotesApp\NotesApp\obj\Debug\net6.0-windows\NotesApp.csproj.AssemblyReference.cache
+C:\Users\MinisterGold\WindowsApps\NotesApp\NotesApp\obj\Debug\net6.0-windows\NotesApp.NoteTaker.resources
+C:\Users\MinisterGold\WindowsApps\NotesApp\NotesApp\obj\Debug\net6.0-windows\NotesApp.csproj.GenerateResource.cache
+C:\Users\MinisterGold\WindowsApps\NotesApp\NotesApp\obj\Debug\net6.0-windows\NotesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MinisterGold\WindowsApps\NotesApp\NotesApp\obj\Debug\net6.0-windows\NotesApp.AssemblyInfoInputs.cache
+C:\Users\MinisterGold\WindowsApps\NotesApp\NotesApp\obj\Debug\net6.0-windows\NotesApp.AssemblyInfo.cs
+C:\Users\MinisterGold\WindowsApps\NotesApp\NotesApp\obj\Debug\net6.0-windows\NotesApp.csproj.CoreCompileInputs.cache
+C:\Users\MinisterGold\WindowsApps\NotesApp\NotesApp\obj\Debug\net6.0-windows\NotesApp.dll
+C:\Users\MinisterGold\WindowsApps\NotesApp\NotesApp\obj\Debug\net6.0-windows\refint\NotesApp.dll
+C:\Users\MinisterGold\WindowsApps\NotesApp\NotesApp\obj\Debug\net6.0-windows\NotesApp.pdb
+C:\Users\MinisterGold\WindowsApps\NotesApp\NotesApp\obj\Debug\net6.0-windows\NotesApp.genruntimeconfig.cache
+C:\Users\MinisterGold\WindowsApps\NotesApp\NotesApp\obj\Debug\net6.0-windows\ref\NotesApp.dll
